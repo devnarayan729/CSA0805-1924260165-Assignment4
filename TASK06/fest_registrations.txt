@@ -1,0 +1,5 @@
+192311001,Arun,CS,arun@example.com,Music;Dance
+192311001,Arun Duplicate,CS,arun@example.com,Music
+192311002,Meera,EEE,meera@,Drama
+192311003,John,MECH,john@gmail.com,Quiz
+192311004,Leena,IT,leena@college.edu,Art;Photography
